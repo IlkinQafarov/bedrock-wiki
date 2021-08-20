@@ -175,7 +175,7 @@ title: GameTest Q&A 2021/08/06
 
 ## Experimental Modules
 
--   Q you've indicated in the past that there is hope all commands will become API's. If an experimental feature arrives, will it get api support and if so will that be in an experimental module?
+-   **Q:** you've indicated in the past that there is hope all commands will become API's. If an experimental feature arrives, will it get api support and if so will that be in an experimental module?
 
 -   **A:** We definitely want to have APIs for experimental features. We haven't decided exactly how we'll do that. Maybe a separate module, mojang-minecraft-experimental or something like that? This would mirror how C++ handles not yet standardized types in experimental namespaces.
 
@@ -335,7 +335,7 @@ title: GameTest Q&A 2021/08/06
 
 ## Marketplace
 
--   Q:Will gametests be available for marketplace content? If yes, is there an approximate date?
+-   **Q:** Will gametests be available for marketplace content? If yes, is there an approximate date?
 
 -   **A:** Currently our focus is on testing scenarios. While we have lots of future thoughts and plans, we don't want to get folks making plans or counting on anything we can't promise yet.
 
